@@ -2,20 +2,20 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="6499" started-at="2020-04-23T07:59:33Z" finished-at="2020-04-23T07:59:39Z">
+  <suite name="Suite" duration-ms="30049" started-at="2020-05-02T18:57:14Z" finished-at="2020-05-02T18:57:44Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="6499" started-at="2020-04-23T07:59:33Z" finished-at="2020-04-23T07:59:39Z">
+    <test name="Test" duration-ms="30049" started-at="2020-05-02T18:57:14Z" finished-at="2020-05-02T18:57:44Z">
       <class name="com.Framework.CreateFramework.testCases.TestCustomerAPI">
-        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:com.Framework.CreateFramework.testCases.TestCustomerAPI@7fc229ab]" name="beforeSuite" is-config="true" duration-ms="866" started-at="2020-04-23T13:29:32Z" finished-at="2020-04-23T13:29:33Z">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:com.Framework.CreateFramework.testCases.TestCustomerAPI@7fc229ab]" name="beforeSuite" is-config="true" duration-ms="15615" started-at="2020-05-03T00:26:58Z" finished-at="2020-05-03T00:27:14Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeSuite -->
-        <test-method status="PASS" signature="beforeClass()[pri:0, instance:com.Framework.CreateFramework.testCases.TestCustomerAPI@7fc229ab]" name="beforeClass" is-config="true" duration-ms="9" started-at="2020-04-23T13:29:33Z" finished-at="2020-04-23T13:29:33Z">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:com.Framework.CreateFramework.testCases.TestCustomerAPI@7fc229ab]" name="beforeClass" is-config="true" duration-ms="16" started-at="2020-05-03T00:27:14Z" finished-at="2020-05-03T00:27:14Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeClass -->
-        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.Framework.CreateFramework.testCases.TestCustomerAPI@7fc229ab]" name="beforeMethod" is-config="true" duration-ms="22" started-at="2020-04-23T13:29:33Z" finished-at="2020-04-23T13:29:33Z">
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.Framework.CreateFramework.testCases.TestCustomerAPI@7fc229ab]" name="beforeMethod" is-config="true" duration-ms="422" started-at="2020-05-03T00:27:14Z" finished-at="2020-05-03T00:27:15Z">
           <params>
             <param index="0">
               <value>
@@ -26,7 +26,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method status="PASS" signature="checkCreateCustomerApiwithValiddata(java.util.Hashtable)[pri:0, instance:com.Framework.CreateFramework.testCases.TestCustomerAPI@7fc229ab]" name="checkCreateCustomerApiwithValiddata" duration-ms="5887" started-at="2020-04-23T13:29:33Z" data-provider="dp" finished-at="2020-04-23T13:29:39Z">
+        <test-method status="PASS" signature="checkCreateCustomerApiwithValiddata(java.util.Hashtable)[pri:0, instance:com.Framework.CreateFramework.testCases.TestCustomerAPI@7fc229ab]" name="checkCreateCustomerApiwithValiddata" duration-ms="26876" started-at="2020-05-03T00:27:15Z" data-provider="dp" finished-at="2020-05-03T00:27:42Z">
           <params>
             <param index="0">
               <value>
@@ -37,7 +37,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- checkCreateCustomerApiwithValiddata -->
-        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.Framework.CreateFramework.testCases.TestCustomerAPI@7fc229ab]" name="afterMethod" is-config="true" duration-ms="537" started-at="2020-04-23T13:29:39Z" finished-at="2020-04-23T13:29:39Z">
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.Framework.CreateFramework.testCases.TestCustomerAPI@7fc229ab]" name="afterMethod" is-config="true" duration-ms="2441" started-at="2020-05-03T00:27:42Z" finished-at="2020-05-03T00:27:44Z">
           <params>
             <param index="0">
               <value>
@@ -48,7 +48,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterMethod -->
-        <test-method status="PASS" signature="afterSuite()[pri:0, instance:com.Framework.CreateFramework.testCases.TestCustomerAPI@7fc229ab]" name="afterSuite" is-config="true" duration-ms="0" started-at="2020-04-23T13:29:39Z" finished-at="2020-04-23T13:29:39Z">
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:com.Framework.CreateFramework.testCases.TestCustomerAPI@7fc229ab]" name="afterSuite" is-config="true" duration-ms="0" started-at="2020-05-03T00:27:46Z" finished-at="2020-05-03T00:27:46Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterSuite -->
